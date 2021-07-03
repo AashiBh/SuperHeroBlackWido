@@ -1,0 +1,19 @@
+.body_backgorund {
+    background-image: url("RoomReady.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgb(255, 255, 255); 
+      border-style:groove;
+  }
+h3
+{
+	display: inline-block;
+  color:rgb(9, 0, 70);
+}
+h1{
+  color:rgb(26, 0, 44);
+}
